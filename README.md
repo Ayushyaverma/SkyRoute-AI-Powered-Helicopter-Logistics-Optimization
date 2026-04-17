@@ -12,7 +12,7 @@
 > **Source code is private.** This repository showcases the project's architecture, features, and screenshots.
 > For access, demos, or collaboration — reach out via my portfolio.
 
-### [techayush.pro](https://techayush.pro)
+### [Live Demo](https://skyroute.techayush.pro) | [Portfolio](https://techayush.pro)
 
 ---
 
@@ -359,6 +359,6 @@ Approved Demands ──→ OR-Tools CP-SAT ──→ Schedule ──→ Database
 
 **Source code is private.** For demos, access, or collaboration:
 
-### [techayush.pro](https://techayush.pro)
+### [Live Demo](https://skyroute.techayush.pro) | [Portfolio](https://techayush.pro)
 
 Built by **[Aayush](https://github.com/Ayushyaverma)**
