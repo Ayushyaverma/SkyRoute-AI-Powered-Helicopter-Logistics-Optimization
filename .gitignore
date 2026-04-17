@@ -1,0 +1,17 @@
+# This repo contains only documentation and screenshots.
+# Source code is private — contact the owner for access.
+*.py
+*.csv
+*.db
+*.pkl
+*.pyc
+*.pyo
+*.xlsx
+__pycache__/
+models/
+export/
+static/
+templates/
+.env
+.vscode/
+.idea/

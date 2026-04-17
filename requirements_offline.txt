@@ -1,0 +1,21 @@
+# Minimal requirements for OFFLINE standalone deployment
+# Install with: pip install -r requirements_offline.txt
+
+# Core
+Flask>=3.0.0
+Werkzeug>=3.0.1
+
+# Optimizer (REQUIRED - OR-Tools CP-SAT solver)
+ortools>=9.8.3296
+
+# ML features (REQUIRED for route scoring)
+scikit-learn>=1.4.0
+pandas>=2.2.0
+numpy>=1.26.3
+joblib>=1.3.2
+
+# NOTE: These are NOT needed for offline use:
+# - sentry-sdk (error monitoring - needs internet)
+# - APScheduler (scheduled tasks - optional)
+# - prophet (not used in this app)
+# - python-dotenv (only for .env files)

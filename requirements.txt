@@ -1,0 +1,15 @@
+# Core dependencies (REQUIRED)
+Flask>=3.0.0
+Werkzeug>=3.0.1
+python-dotenv>=1.0.0
+ortools>=9.8.3296
+
+# ML dependencies (REQUIRED for optimization)
+scikit-learn>=1.4.0
+pandas>=2.2.0
+numpy>=1.26.3
+joblib>=1.3.2
+
+# Optional dependencies (app works without these)
+# sentry-sdk[flask]>=1.40.0  # Error monitoring - needs internet
+# APScheduler>=3.10.0        # Nightly scheduled tasks
